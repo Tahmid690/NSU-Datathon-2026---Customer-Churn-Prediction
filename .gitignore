@@ -1,0 +1,36 @@
+# Competition raw dataset (~1.8 GB parquet/csv files — exceeds GitHub 100 MB limit)
+data/
+public/
+
+# Generated features & submission outputs
+artifacts/
+*.parquet
+predictions.csv
+submission*.csv
+
+# Archives
+*.zip
+*.tar.gz
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets & local config
+.env
+kaggle.json
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
