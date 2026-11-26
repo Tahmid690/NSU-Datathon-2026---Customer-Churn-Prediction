@@ -2,10 +2,6 @@
 
 **bKash presents NSUCEC Datathon (Round 1)** — Predicting 30-day customer inactivity on a mobile wallet platform from 200M+ transactions, 360M+ daily balances, and KYC profiles, paired with Optuna-tuned LightGBM and SHAP explainability.
 
-![Competition](https://img.shields.io/badge/bKash%20%C3%97%20NSUCEC-Datathon%20Round%201-E2136E)
-![Task](https://img.shields.io/badge/Task-30--Day%20Churn%20Prediction-brightgreen)
-![Metric](https://img.shields.io/badge/Metric-AUC--ROC-blue)
-![Stack](https://img.shields.io/badge/Stack-LightGBM%20%7C%20Optuna%20%7C%20SHAP%20%7C%20Pandas-orange)
 
 ---
 
